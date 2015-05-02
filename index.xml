@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<d:dictionary xmlns="http://www.w3.org/1999/xhtml" xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng">
+
+  <d:entry id="agender" d:title="agender">
+    <d:index d:value="agender" />
+    <div class="headword"><h1>agender</h1></div>
+    <p class="kind">adjective</p>
+    <p class="entry">a person who feels gender neutral, or who experiences a lack of gender</p>
+  </d:entry>
+
+  <d:entry id="aromantic" d:title="aromantic">
+    <d:index d:value="aromantic" />
+    <div class="headword"><h1>aromantic</h1></div>
+    <p class="kind">adjective</p>
+    <p class="entry">having no romantic attraction to others; having no desire to have sex</p>
+  </d:entry>
+
+  <d:entry id="asexual" d:title="asexual">
+    <d:index d:value="asexual" />
+    <div class="headword"><h1>asexual</h1></div>
+    <p class="kind">adjective</p>
+    <p class="entry">having no sexual attraction to others; having no desire to have sex</p>
+  </d:entry>
+
+  <d:entry id="bigender" d:title="bigender">
+    <d:index d:value="bigender" />
+    <div class="headword"><h1>bigender</h1></div>
+    <p class="kind">adjective</p>
+    <p class="entry">a person who identifies as two separate genders</p>
+  </d:entry>
+
+  <d:entry id="biromantic" d:title="biromantic">
+    <d:index d:value="biromantic" />
+    <div class="headword"><h1>biromantic</h1></div>
+    <p class="kind">adjective</p>
+    <p class="entry">romantically attracted to two or more genders</p>
+  </d:entry>
+
+  <d:entry id="bisexual" d:title="bisexual">
+    <d:index d:value="bisexual" />
+    <div class="headword"><h1>bisexual</h1></div>
+    <p class="kind">adjective</p>
+    <p class="entry">sexually attracted to two or more genders</p>
+  </d:entry>
+
+  <d:entry id="camab" d:title="CAMAB">
+    <d:index d:value="CAMAB" />
+    <div class="headword"><h1>CAMAB</h1></div>
+    <p class="kind">abbreviation</p>
+    <p class="entry">Coercively Assigned Male at Birth</p>
+  </d:entry>
+
+  <d:entry id="cafab" d:title="CAFAB">
+    <d:index d:value="CAFAB" />
+    <div class="headword"><h1>CAFAB</h1></div>
+    <p class="kind">abbreviation</p>
+    <p class="entry">Coercively Assigned Female at Birth</p>
+  </d:entry>
+
+  <d:entry id="cisgender" d:title="cisgender">
+    <d:index d:value="cis" />
+    <d:index d:value="cisgender" />
+    <div class="headword"><h1>cisgender</h1></div>
+    <p class="kind">adjective</p>
+    <p class="entry">a person who identifies as the gender that they were assigned as at birth</p>
+    <p class="entry">often shortened to cis</p>
+  </d:entry>
+
+  <d:entry id="demiboy" d:title="demiboy">
+    <d:index d:value="demiboy" />
+    <d:index d:value="demiguy" />
+    <div class="headword"><h1>demiboy</h1> (also <strong>demiguy</strong>)</div>
+    <p class="kind">adjective</p>
+    <p class="entry">identifying partially as a woman, but not wholly</p>
+  </d:entry>
+
+  <d:entry id="demigirl" d:title="demigirl">
+    <d:index d:value="demigirl" />
+    <div class="headword"><h1>demigirl</h1></div>
+    <p class="kind">adjective</p>
+    <p class="entry">identifying partially as a woman, but not wholly</p>
+  </d:entry>
+
+  <d:entry id="demiromantic" d:title="demiromantic">
+    <d:index d:value="demiromantic" />
+    <div class="headword"><h1>demiromantic</h1></div>
+    <p class="kind">adjective</p>
+    <p class="entry">romantically attracted to people only after forming a bond with them first</p>
+  </d:entry>
+
+  <d:entry id="demisexual" d:title="demisexual">
+    <d:index d:value="demisexual" />
+    <div class="headword"><h1>demisexual</h1></div>
+    <p class="kind">adjective</p>
+    <p class="entry">sexually attracted to people only after forming a bond with them first</p>
+  </d:entry>
+
+  <d:entry id="dmab" d:title="DMAB">
+    <d:index d:value="AMAB" />
+    <d:index d:value="DMAB" />
+    <d:index d:value="MAAB" />
+    <div class="headword"><h1>DMAB</h1> (also <strong>AMAB</strong>, <strong>MAAB</strong>)</div>
+    <p class="kind">abbreviation</p>
+    <p class="entry">Designated or Assigned Male at Birth</p>
+  </d:entry>
+
+  <d:entry id="dfab" d:title="DMAB">
+    <d:index d:value="AFAB" />
+    <d:index d:value="DFAB" />
+    <d:index d:value="FAAB" />
+    <div class="headword"><h1>DFAB</h1> (also <strong>AFAB</strong>, <strong>FAAB</strong>)</div>
+    <p class="kind">abbreviation</p>
+    <p class="entry">Designated or Assigned Female at Birth</p>
+  </d:entry>
+
+  <d:entry id="genderfluid" d:title="genderfluid">
+    <d:index d:value="genderfluid" />
+    <div class="headword"><h1>genderfluid</h1></div>
+    <p class="kind">adjective</p>
+    <p class="entry">a gender that changes, or is ‘fluid’</p>
+  </d:entry>
+
+  <d:entry id="genderqueer" d:title="genderqueer">
+    <d:index d:value="genderqueer" />
+    <div class="headword"><h1>genderqueer</h1></div>
+    <p class="kind">adjective</p>
+    <p class="entry">outside of the gender binary</p>
+  </d:entry>
+
+  <d:entry id="heteroromantic" d:title="heteroromantic">
+    <d:index d:value="heteroromantic" />
+    <div class="headword"><h1>heteroromantic</h1></div>
+    <p class="kind">adjective</p>
+    <p class="entry">male-identifying individual romantically attracted to female-identifying individuals, and vice-versa</p>
+  </d:entry>
+
+  <d:entry id="heterosexual" d:title="heterosexual">
+    <d:index d:value="heterosexual" />
+    <div class="headword"><h1>heterosexual</h1></div>
+    <p class="kind">adjective</p>
+    <p class="entry">male-identifying individual sexually attracted to a female-identifying individual, and vice-versa</p>
+  </d:entry>
+
+  <d:entry id="homoromantic" d:title="homoromantic">
+    <d:index d:value="homoromantic" />
+    <div class="headword"><h1>homoromantic</h1></div>
+    <p class="kind">adjective</p>
+    <p class="entry">romantically attracted to someone of the same gender</p>
+  </d:entry>
+
+  <d:entry id="homosexual" d:title="homosexual">
+    <d:index d:value="homosexual" />
+    <div class="headword"><h1>homosexual</h1></div>
+    <p class="kind">adjective</p>
+    <p class="entry">sexually attracted to someone of the same gender</p>
+  </d:entry>
+
+  <d:entry id="intersex" d:title="intersex">
+    <d:index d:value="intersex" />
+    <div class="headword"><h1>intersex</h1></div>
+    <p class="kind">adjective</p>
+    <p class="entry">a person who has ambiguous genitalia that doesnʼt fit into our strict dichotomy of uterus or testes</p>
+    <p class="entry">often forced into surgery to correct their genitals at a very young age, causing psychological and physical harm later in life</p>
+  </d:entry>
+
+  <d:entry id="lgbt" d:title="LGBT">
+    <d:index d:value="GLBT" />
+    <d:index d:value="LGBT" />
+    <d:index d:value="LGBTQ" />
+    <d:index d:value="LGBTQI" />
+    <div class="headword"><h1>LGBT</h1> (also <strong>GLBT</strong>, <strong>LGBTQ</strong>, <strong>LGBTQI</strong>)</div>
+    <p class="kind">abbreviation</p>
+    <p class="entry">umbrella term which stands for lesbian, gay, bisexual, and transgender</p>
+    <p class="entry">in some variations it includes queer and intersex people specifically</p>
+  </d:entry>
+
+  <d:entry id="nonbinary" d:title="nonbinary">
+    <d:index d:value="nonbinary" />
+    <div class="headword"><h1>nonbinary</h1></div>
+    <p class="kind">adjective</p>
+    <p class="entry">outside of the gender binary of male and female
+    <p class="entry">can be used as an umbrella term or as its own identity</p>
+  </d:entry>
+
+  <d:entry id="panromantic" d:title="panromantic">
+    <d:index d:value="panromantic" />
+    <div class="headword"><h1>panromantic</h1></div>
+    <p class="kind">adjective</p>
+    <p class="entry">romantically attracted to all genders</p>
+  </d:entry>
+
+  <d:entry id="pansexual" d:title="pansexual">
+    <d:index d:value="pansexual" />
+    <div class="headword"><h1>pansexual</h1></div>
+    <p class="kind">adjective</p>
+    <p class="entry">sexually attracted to all genders</p>
+  </d:entry>
+
+  <d:entry id="polyamorous" d:title="polyamorous">
+    <d:index d:value="polyamorous" />
+    <div class="headword"><h1>polyamorous</h1></div>
+    <p class="kind">adjective</p>
+    <p class="entry">a person who is attracted to, and is comfortable with being in a relationship with more than one person at a time</p>
+  </d:entry>
+
+  <d:entry id="polyromantic" d:title="polyromantic">
+    <d:index d:value="polyromantic" />
+    <div class="headword"><h1>polyromantic</h1></div>
+    <p class="kind">adjective</p>
+    <p class="entry">romantically attracted to many genders, but not all</p>
+  </d:entry>
+
+  <d:entry id="polysexual" d:title="polysexual">
+    <d:index d:value="polysexual" />
+    <div class="headword"><h1>polysexual</h1></div>
+    <p class="kind">adjective</p>
+    <p class="entry">sexually attracted to many genders, but not all</p>
+  </d:entry>
+
+  <d:entry id="queer" d:title="queer">
+    <d:index d:value="queer" />
+    <div class="headword"><h1>queer</h1></div>
+    <p class="kind">adjective</p>
+    <p class="entry">umbrella term for sexual and gender minorities that are not heterosexual or cisgender</p>
+  </d:entry>
+
+  <d:entry id="transgender" d:title="transgender">
+    <d:index d:value="trans" />
+    <d:index d:value="transgender" />
+    <d:index d:value="transexual" />
+    <d:index d:value="transsexual" />
+    <div class="headword"><h1>transgender</h1> (also <strong>trans</strong>, <strong>transsexual</strong>)</div>
+    <p class="kind">adjective</p>
+    <p class="entry">a person who identifies as a gender other than the one they were assigned at birth</p>
+  </d:entry>
+
+  <d:entry id="trigender" d:title="trigender">
+    <d:index d:value="trigender" />
+    <div class="headword"><h1>trigender</h1></div>
+    <p class="kind">adjective</p>
+    <p class="entry">a person who identifies as three separate genders</p>
+  </d:entry>
+
+</d:dictionary>

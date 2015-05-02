@@ -1,0 +1,29 @@
+@charset "UTF-8";
+@namespace d url(http://www.apple.com/DTDs/DictionaryService-1.0.rng);
+
+d|entry {
+  display: block;
+  margin: 0em 0em 0em 0em; 
+  margin-bottom: 3.0em;
+}
+
+.headword h1 {
+	font-size: 150%;
+  font-weight: normal;
+  display: inline-block;
+  margin: 0;
+}
+
+.kind {
+  margin: 0;
+}
+
+.entry {
+  margin-left: 1em;
+  text-indent: -1em;
+}
+
+.headword + .entry,
+.kind + .entry {
+  margin-top: 0;
+}

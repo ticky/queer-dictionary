@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>CFBundleDevelopmentRegion</key>
+    <string>English</string>
+    <key>CFBundleIdentifier</key>
+    <string>net.jessicastokes.dictionary.queer</string>
+    <key>CFBundleName</key>
+    <string>Queer Terms</string>
+    <key>CFBundleShortVersionString</key>
+    <string>1.0</string>
+    <key>DCSDictionaryCopyright</key>
+    <string>Compiled in 2015 by Jessica Stokes. This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/.</string>
+    <key>DCSDictionaryManufacturerName</key>
+    <string>Jessica Stokes</string>
+    <key>DCSDictionaryDefaultPrefs</key>
+    <dict>
+      <key>pronunciation</key>
+      <string>0</string>
+      <key>display-column</key>
+      <string>1</string>
+      <key>display-picture</key>
+      <string>1</string>
+      <key>version</key>
+      <string>1</string>
+    </dict>
+  </dict>
+</plist>
