@@ -12,7 +12,7 @@ Building the Dictionary requires the OS X Dictionary Development Kit, available 
 
 The build process expects the development kit to be in the default location it appears when the disk image is mounted. Edit the `DICT_BUILD_TOOL_DIR` in `Makefile` if you have it installed somewhere different.
 
-Building is as simple as running `make && make install` if you have Xcode's command line tools installed. The Dictionary will be installed to `~/Dictionaries` and you can immediately use it by opening the Dictionary app.
+Building is as simple as running `make && make install` if you have Xcode's command line tools installed. The Dictionary will be installed to `~/Library/Dictionaries` and you can immediately use it by opening the Dictionary app.
 
 ## Corrections & Contributions
 
